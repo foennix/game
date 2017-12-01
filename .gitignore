@@ -2,3 +2,7 @@ bazel-bin
 bazel-bin/
 bazel-out
 bazel-out/
+bazel-game
+bazel-game/
+bazel-genfiles
+bazel-genfiles/
